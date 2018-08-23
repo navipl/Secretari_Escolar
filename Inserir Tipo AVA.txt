@@ -1,0 +1,7 @@
+use projeto_escola;
+
+insert into tipo_ava(DESC_TIPO) values ('Exercicios');
+
+insert into tipo_ava(DESC_TIPO) values ('Trabalhos');
+
+insert into tipo_ava(DESC_TIPO) values ('Avaliaçãos');
